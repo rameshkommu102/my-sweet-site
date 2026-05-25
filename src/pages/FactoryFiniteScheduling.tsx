@@ -6,7 +6,7 @@ import {
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import FooterSection from "@/components/home/FooterSection";
-import heroBg from "@/assets/factory-scheduling-hero-bg.jpeg";
+import heroBg from "@/assets/factory-scheduling-hero-bg.png";
 import iconJobshop from "@/assets/ffs-icon-jobshop.png";
 import iconBatch from "@/assets/ffs-icon-batch.png";
 import iconDiscrete from "@/assets/ffs-icon-discrete.png";

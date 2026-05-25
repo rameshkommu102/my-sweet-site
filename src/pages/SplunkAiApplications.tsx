@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import FooterSection from "@/components/home/FooterSection";
-import heroBg from "@/assets/splunk-hero-bg.jpeg";
+import heroBg from "@/assets/splunk-hero-bg.png";
 import bgSecurity from "@/assets/splunk/bg-security.jpg";
 import bgObservability from "@/assets/splunk/bg-observability.jpg";
 import bgMiddleware from "@/assets/splunk/bg-middleware.jpg";

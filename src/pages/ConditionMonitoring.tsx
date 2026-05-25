@@ -9,7 +9,7 @@ import {
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import FooterSection from "@/components/home/FooterSection";
-import heroBg from "@/assets/condition-monitoring-hero.jpeg";
+import heroBg from "@/assets/condition-monitoring-hero.png";
 
 const LIME = "#C8FF01";
 const LIME_SOFT = "rgba(200,255,1,0.25)";

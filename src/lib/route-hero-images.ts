@@ -1,16 +1,16 @@
 import homeHeroBg from "@/assets/home-hero-bg.png";
 import decisionHeroBg from "@/assets/hero-bg.png";
-import predictiveHeroBg from "@/assets/predictive-hero-bg.jpeg";
+import predictiveHeroBg from "@/assets/predictive-hero-bg.png";
 import agenticHeroBg from "@/assets/agentic-hero-bg.png";
-import dataEngHeroBg from "@/assets/de-hero-bg.jpeg";
-import wmaHeroBg from "@/assets/wma-bg.jpeg";
+import dataEngHeroBg from "@/assets/de-hero-bg.png";
+import wmaHeroBg from "@/assets/wma-bg.png";
 import powerPlatformHeroBg from "@/assets/power-platform-hero-bg.png";
-import splunkHeroBg from "@/assets/splunk-hero-bg.jpeg";
-import sdaHeroBg from "@/assets/sda-bg.jpeg";
-import conditionHeroBg from "@/assets/condition-monitoring-hero.jpeg";
-import visionHeroBg from "@/assets/vision-analytics-hero.jpeg";
+import splunkHeroBg from "@/assets/splunk-hero-bg.png";
+import sdaHeroBg from "@/assets/sda-bg.png";
+import conditionHeroBg from "@/assets/condition-monitoring-hero.png";
+import visionHeroBg from "@/assets/vision-analytics-hero.png";
 import sapAnalyticsHeroBg from "@/assets/sap-analytics-hero-bg.png";
-import sapValueHeroBg from "@/assets/sap-value-hero-bg.jpeg";
+import sapValueHeroBg from "@/assets/sap-value-hero-bg.png";
 import sapScfHeroBg from "@/assets/sap-scf-hero-bg.png";
 import sapRiseHeroBg from "@/assets/sap-rise-hero-bg.png";
 import sapIbpHeroBg from "@/assets/ibp-hero-bg.png";
@@ -18,12 +18,12 @@ import sapEwmHeroBg from "@/assets/ewm-hero-bg.png";
 import techFactoryHeroBg from "@/assets/tech-factory-hero-bg.png";
 import sapSupportHeroBg from "@/assets/sap-support-hero-bg.png";
 import sfx9HeroBg from "@/assets/sfx9/hero-bg.png";
-import factorySchedulingHeroBg from "@/assets/factory-scheduling-hero-bg.jpeg";
+import factorySchedulingHeroBg from "@/assets/factory-scheduling-hero-bg.png";
 import inventiqHeroBg from "@/assets/inventiq-hero-bg.jpeg";
 import shopfloorHeroBg from "@/assets/shopfloor-hero-bg.jpg";
 import insightsHeroBg from "@/assets/insights-hero-bg.jpeg";
-import contactHeroBg from "@/assets/contact-hero-bg.jpeg";
-import careersHeroBg from "@/assets/careers-bg.jpeg";
+import contactHeroBg from "@/assets/contact-hero-bg.png";
+import careersHeroBg from "@/assets/careers-bg.png";
 
 export const routeHeroImages: Record<string, string> = {
   "/": homeHeroBg,

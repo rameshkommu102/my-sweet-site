@@ -2,10 +2,10 @@ import { useEffect, useState } from "react";
 import { useNavigate, useLocation, useRouter } from "@tanstack/react-router";
 import logo from "@/assets/logo.png";
 import logoCulture from "@/assets/carbynetech-logo-full.png";
-import productMes from "@/assets/product-mes.jpg";
-import productScheduling from "@/assets/product-scheduling.jpg";
-import productInventory from "@/assets/product-inventory.jpg";
-import productAccounting from "@/assets/product-accounting.jpg";
+import productMes from "@/assets/product-mes.png";
+import productScheduling from "@/assets/product-scheduling.png";
+import productInventory from "@/assets/product-inventory.png";
+import productAccounting from "@/assets/product-accounting.png";
 import navWatermark from "@/assets/nav-watermark.png";
 import { preloadHeroImage } from "@/lib/route-hero-images";
 

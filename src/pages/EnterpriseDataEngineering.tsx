@@ -8,7 +8,7 @@ import {
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import FooterSection from "@/components/home/FooterSection";
-import heroBg from "@/assets/de-hero-bg.jpeg";
+import heroBg from "@/assets/de-hero-bg.png";
 import dataArchitectureDiagram from "@/assets/data-architecture-diagram.png";
 import dataIntegrationHub from "@/assets/data-integration-hub.png";
 import lakehouseTiers from "@/assets/lakehouse-tiers.png";

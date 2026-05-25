@@ -8,7 +8,7 @@ import {
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import FooterSection from "@/components/home/FooterSection";
-import heroBg from "@/assets/sap-value-hero-bg.jpeg";
+import heroBg from "@/assets/sap-value-hero-bg.png";
 
 const LIME = "#C8FF01";
 const GREEN_BORDER = "rgba(200,255,1,0.25)";

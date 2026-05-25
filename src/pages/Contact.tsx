@@ -1,7 +1,7 @@
 import Navbar from "@/components/Navbar";
 import FooterSection from "@/components/home/FooterSection";
 import ScrollReveal from "@/components/ewm/ScrollReveal";
-import contactBg from "@/assets/contact-hero-bg.jpeg";
+import contactBg from "@/assets/contact-hero-bg.png";
 import { MapPin, Mail, Phone, ArrowRight, Linkedin, Youtube } from "lucide-react";
 import { useState } from "react";
 

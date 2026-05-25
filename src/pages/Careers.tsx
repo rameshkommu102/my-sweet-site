@@ -17,8 +17,8 @@ import {
 import Navbar from "@/components/Navbar";
 import FooterSection from "@/components/home/FooterSection";
 import ScrollReveal from "@/components/ewm/ScrollReveal";
-import careersBg from "@/assets/careers-bg.jpeg";
-import careersNearFooter from "@/assets/careers-near-footer.jpeg";
+import careersBg from "@/assets/careers-bg.png";
+import careersNearFooter from "@/assets/careers-near-footer.png";
 import { roles, getRoleBySlug } from "@/data/careers";
 
 const routeApi = getRouteApi("/careers");

@@ -9,9 +9,9 @@ import {
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import FooterSection from "@/components/home/FooterSection";
-import heroBg from "@/assets/wma-bg.jpeg";
+import heroBg from "@/assets/wma-bg.png";
 import realWorldPreview from "@/assets/real-world-preview.png";
-import sapExtensionsPreview from "@/assets/task-centric-sap-extensions.jpeg";
+import sapExtensionsPreview from "@/assets/task-centric-sap-extensions.png";
 import studioIntelligence from "@/assets/studio-intelligence.png";
 
 /* Reuse the Splunk/Vision design language */

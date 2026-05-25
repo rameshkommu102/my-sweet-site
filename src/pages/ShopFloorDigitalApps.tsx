@@ -12,7 +12,7 @@ import {
 } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import FooterSection from "@/components/home/FooterSection";
-import heroBg from "@/assets/sda-bg.jpeg";
+import heroBg from "@/assets/sda-bg.png";
 import telemetryDashboard from "@/assets/shopfloor-telemetry-dashboard.png";
 import deployCardBg from "@/assets/shopfloor-deploy-card-bg.png";
 import azureIotFactory from "@/assets/sda-01.png";

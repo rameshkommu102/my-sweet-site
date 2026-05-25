@@ -1,11 +1,11 @@
-import imgCfo from "@/assets/case-studies/cfo-intelligence-suite.jpg";
-import imgProcurement from "@/assets/case-studies/procurement-logistics-intelligence.jpg";
-import imgAnimalNutrition from "@/assets/case-studies/sap-analytics-animal-nutrition.jpg";
-import imgFertis from "@/assets/case-studies/fertis-sap-decision-intelligence.jpg";
-import imgFinSights from "@/assets/case-studies/finsights-multi-cloud-cost.jpg";
-import imgPharma from "@/assets/case-studies/enterprise-analytics-pharma.jpg";
-import imgUnilever from "@/assets/case-studies/supply-chain-unilever.jpg";
-import imgDbmsc from "@/assets/case-studies/dbmsc-steels-data-automation.jpg";
+import imgCfo from "@/assets/case-studies/cfo-intelligence-suite.png";
+import imgProcurement from "@/assets/case-studies/procurement-logistics-intelligence.png";
+import imgAnimalNutrition from "@/assets/case-studies/sap-analytics-animal-nutrition.png";
+import imgFertis from "@/assets/case-studies/fertis-sap-decision-intelligence.png";
+import imgFinSights from "@/assets/case-studies/finsights-multi-cloud-cost.png";
+import imgPharma from "@/assets/case-studies/enterprise-analytics-pharma.png";
+import imgUnilever from "@/assets/case-studies/supply-chain-unilever.png";
+import imgDbmsc from "@/assets/case-studies/dbmsc-steels-data-automation.png";
 
 export type CaseStudy = {
   slug: string;

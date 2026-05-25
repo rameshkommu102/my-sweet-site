@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import insightBg from "@/assets/insight-bg-main.jpg";
-import imgProcurement from "@/assets/case-studies/procurement-logistics-intelligence.jpg";
-import imgPharma from "@/assets/case-studies/enterprise-analytics-pharma.jpg";
-import imgAnimalNutrition from "@/assets/case-studies/sap-analytics-animal-nutrition.jpg";
+import imgProcurement from "@/assets/case-studies/procurement-logistics-intelligence.png";
+import imgPharma from "@/assets/case-studies/enterprise-analytics-pharma.png";
+import imgAnimalNutrition from "@/assets/case-studies/sap-analytics-animal-nutrition.png";
 import ScrollReveal from "@/components/ewm/ScrollReveal";
 
 const SLIDE_DURATION = 6000; // ms per card

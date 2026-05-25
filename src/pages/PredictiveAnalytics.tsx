@@ -3,7 +3,7 @@ import BrandedCTASection, { CtaHighlight } from "@/components/BrandedCTASection"
 import Navbar from "@/components/Navbar";
 import FooterSection from "@/components/home/FooterSection";
 import ScrollReveal from "@/components/ewm/ScrollReveal";
-import heroBg from "@/assets/predictive-hero-bg.jpeg";
+import heroBg from "@/assets/predictive-hero-bg.png";
 import deliveryIcon1 from "@/assets/delivery-icon-1.png";
 import deliveryIcon2 from "@/assets/delivery-icon-2.png";
 import deliveryIcon3 from "@/assets/delivery-icon-3.png";
